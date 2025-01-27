@@ -172,4 +172,4 @@ cython_debug/
 *.xml
 
 # Testing files
-test.py
+tmp*.*
