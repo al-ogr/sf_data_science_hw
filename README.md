@@ -7,3 +7,5 @@
 [Проект 1. Анализ данных об оттоке клиентов "Х" банка](https://github.com/al-ogr/sf_data_science_hw/tree/main/HW-02)
 
 [Проект 2. Исследование данных HR-агентства](https://github.com/al-ogr/sf_data_science_hw/tree/main/HW-03)
+
+[Проект 3. Практика логирования результатов экспериментов в Comet.ml](https://github.com/al-ogr/sf_data_science_hw/tree/main/HW-04)
