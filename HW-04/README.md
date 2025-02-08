@@ -24,7 +24,7 @@
 
 **Что практикуем**  
 Визуализация корреляции числовых признаков.  
-Логирование результатов экспериментов в [Comet.ml](www.comet.com).  
+Логирование результатов экспериментов в [Comet.ml](https://www.comet.com/).  
 Программирование на python.
 
 :arrow_up:[к оглавлению](README.md#Оглавление)
@@ -41,6 +41,6 @@
 ```
 API_COMET=1uXXXXXXXXXXXXXXXXXXXX
 ```
-**API_COMET** - ключ API платформы [Comet.ml](www.comet.com)
+**API_COMET** - ключ API платформы [Comet.ml](https://www.comet.com/)
 
 :arrow_up:[к оглавлению](README.md#Оглавление)
