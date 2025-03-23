@@ -9,3 +9,5 @@
 [Проект 2. Исследование данных HR-агентства](https://github.com/al-ogr/sf_data_science_hw/tree/main/HW-03)
 
 [Проект 3. Практика логирования результатов экспериментов в Comet.ml](https://github.com/al-ogr/sf_data_science_hw/tree/main/HW-04)
+
+[Проект 4. Обучение с учителем. Классификация. Практика. Прогнозирование оттока клиентов банка](https://github.com/al-ogr/sf_data_science_hw/tree/main/HW-05)
