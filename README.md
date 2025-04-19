@@ -11,3 +11,5 @@
 [Проект 3. Практика логирования результатов экспериментов в Comet.ml](https://github.com/al-ogr/sf_data_science_hw/tree/main/HW-04)
 
 [Проект 4. Обучение с учителем. Классификация. Практика. Прогнозирование оттока клиентов банка](https://github.com/al-ogr/sf_data_science_hw/tree/main/HW-05)
+
+[Проект 5. Отбор и селекция признаков. Практика. Предсказание цены автомобиля](https://github.com/al-ogr/sf_data_science_hw/tree/main/HW-06)
