@@ -15,3 +15,5 @@
 [Проект 5. Отбор и селекция признаков. Практика. Предсказание цены автомобиля](https://github.com/al-ogr/sf_data_science_hw/tree/main/HW-06)
 
 [Проект 6. Прогнозирование уровня заработной платы](https://github.com/al-ogr/sf_data_science_hw/tree/main/HW-07)
+
+[Проект 7. Прогнозирование биологического ответа](https://github.com/al-ogr/sf_data_science_hw/tree/main/HW-08)
