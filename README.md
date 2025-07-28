@@ -17,3 +17,5 @@
 [Проект 6. Прогнозирование уровня заработной платы](https://github.com/al-ogr/sf_data_science_hw/tree/main/HW-07)
 
 [Проект 7. Прогнозирование биологического ответа](https://github.com/al-ogr/sf_data_science_hw/tree/main/HW-08)
+
+[Проект 8. Прогнозирование выработки газа на скважинах](https://github.com/al-ogr/sf_data_science_hw/tree/main/HW-09)
