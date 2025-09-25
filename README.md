@@ -22,4 +22,4 @@
 
 [Проект 9. Стохастический градиентный и координатный спуски](https://github.com/al-ogr/sf_data_science_hw/tree/main/HW-10)
 
-[Проект 10. # Классификация текстов с использованием Наивного Байесовского Классификатора](https://github.com/al-ogr/sf_data_science_hw/tree/main/HW-11)
+[Проект 10. Классификация текстов с использованием Наивного Байесовского Классификатора](https://github.com/al-ogr/sf_data_science_hw/tree/main/HW-11)
